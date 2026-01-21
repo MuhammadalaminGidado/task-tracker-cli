@@ -1,0 +1,29 @@
+# Binaries for programs
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, should not be ignored
+# # Uncomment to ignore test binaries
+# *_test
+
+# Old stuff
+*.out
+
+# Mac
+.DS_Store
+
+# IDE files and directories
+.idea/         # IntelliJ IDEA
+.vscode/       # VS Code
+.eclipse/      # Eclipse
+.builds/       # Various IDEs
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Vendor directory (uncomment if you want to ignore vendor)
+# vendor/
