@@ -1,5 +1,4 @@
 # 📝 Go CLI Task Manager
-https://github.com/MuhammadalaminGidado/task-tracker-cli/blob/main/main.go
 
 A lightweight command-line task management application written in Go. Tasks are persisted to disk as JSON and can be managed via an interactive terminal menu.
 
@@ -38,7 +37,7 @@ A lightweight command-line task management application written in Go. Tasks are 
 git clone <your-repo-url>
 cd <your-repo>
 go run .
-
+```
 ---
 
 📖 Usage
@@ -88,6 +87,8 @@ Example:
 | `Pending`       | Active task                  |
 | `Completed`     | Finished                     |
 
+
+https://github.com/MuhammadalaminGidado/task-tracker-cli
 
 📄 License
 
