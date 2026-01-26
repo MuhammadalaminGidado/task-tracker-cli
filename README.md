@@ -88,8 +88,6 @@ Example:
 | `Completed`     | Finished                     |
 
 
-https://github.com/MuhammadalaminGidado/task-tracker-cli
-
 📄 License
 
 MIT
